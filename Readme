@@ -14,4 +14,5 @@ Cara Mengatasi Masalah dalam Menggunakan YOBO + Auto Snipe.
 #Jika anda menemukan pesan seperti ini "Did not find a Pokemon within the Location, pokemon despawned?" tunggu saja karena pokemon yang kita bidik tidak ada.
 #Jika menemukan tulisan "Softban" tunggu aja sampai proses unbanningnya selesai atau close aplikasi dan ganti IP kalian menggunakan VPN, jalankan lagi aplikasi YOBOnya.
 #Jika menemukan tulisan ini "No usable pokestops found in your area" kemungkinan terkena IP Banned, caranya gunakan VPN.
-#Jika aplikasi YOBO "Stopped Working/Close Program", update Net Framework kalian diatas versi 4.6.2
+#Jika aplikasi YOBO "Stopped Working/Close Program", update [Net Framework kalian diatas versi 4.6.2.](https://download.microsoft.com/download/1/7/5/175E764B-E417-4FBB-95DF-62676FC7B2EA/NDP462-KB3120735-x86-x64-AllOS-ENU.exe)
+
