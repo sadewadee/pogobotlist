@@ -27,7 +27,7 @@ EN Translation Powered Google Translate(https://translate.google.co.id)
 8. Then Reopen "YOBO.exe".
 9. Wait a minute until the login is successful.
 
- # How to Troubleshooting in Using YOBO.
+# How to Troubleshooting in Using YOBO.
 If you find a message like "Did not find a Pokemon within the Location, pokemon despawned?" wait for pokemon that we aim at nothing.
 If you find the words "Softban" just wait until the process is complete unbanningnya or close the application and change your IP using VPN, run again YOBOnya application.
 If you find this article "No usable pokestops found in your area" likelihood of Banned IP, how to use a VPN.
