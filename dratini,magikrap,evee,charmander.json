@@ -1,0 +1,263 @@
+{
+  "TranslationLanguageCode": "en",
+  "CheckForUpdates": true,
+  "AutoUpdate": false,
+  "TransferConfigAndAuthOnUpdate": true,
+  "UseWebsocket": false,
+  "WebSocketPort": 14251,
+  "UseTelegramAPI": false,
+  "TelegramAPIKey": null,
+  "TelegramPassword": "12345",
+  "StartupWelcomeDelay": false,
+  "AmountOfPokemonToDisplayOnStart": 10,
+  "DetailedCountsBeforeRecycling": false,
+  "CatchPokemon": false,
+  "MaxBerriesToUsePerPokemon": 3,
+  "AutomaticallyLevelUpPokemon": false,
+  "OnlyUpgradeFavorites": true,
+  "UseLevelUpList": true,
+  "AmountOfTimesToUpgradeLoop": 5,
+  "GetMinStarDustForLevelUp": 5000,
+  "LevelUpByCPorIv": "iv",
+  "UpgradePokemonCpMinimum": 1000.0,
+  "UpgradePokemonIvMinimum": 95.0,
+  "UpgradePokemonMinimumStatsOperator": "and",
+  "DisableHumanWalking": false,
+  "DefaultLatitude": 40.764887,
+  "DefaultLongitude": -73.972709,
+  "WalkingSpeedInKilometerPerHour": 28.0,
+  "UseWalkingSpeedVariant": true,
+  "RandomlyPauseAtStops": false,
+  "MaxSpawnLocationOffset": 10,
+  "FastSoftBanBypass": false,
+  "DelayBetweenPlayerActions": 100,
+  "DelayBetweenPokemonCatch": 1,
+  "DumpPokemonStats": true,
+  "EvolveAboveIvValue": 10.0,
+  "EvolveAllPokemonAboveIv": false,
+  "EvolveAllPokemonWithEnoughCandy": false,
+  "EvolveKeptPokemonsAtStorageUsagePercentage": 60.0,
+  "KeepPokemonsThatCanEvolve": false,
+  "KeepMinCp": 1000,
+  "KeepMinIvPercentage": 100.0,
+  "KeepMinLvl": 6,
+  "KeepMinOperator": "and",
+  "UseKeepMinLvl": false,
+  "PrioritizeIvOverCp": false,
+  "KeepMinDuplicatePokemon": 3,
+  "UseGpxPathing": false,
+  "GpxFile": "GPXPath.GPX",
+  "VerboseRecycling": true,
+  "RecycleInventoryAtUsagePercentage": 90.0,
+  "RandomizeRecycle": false,
+  "RandomRecycleValue": 5,
+  "DelayBetweenRecycleActions": false,
+  "UseEggIncubators": true,
+  "UseEggIncubatorMinKm": 2,
+  "UseLuckyEggConstantly": false,
+  "UseLuckyEggsMinPokemonAmount": 10,
+  "UseLuckyEggsWhileEvolving": true,
+  "UseIncenseConstantly": true,
+  "UseBerriesMinCp": 0,
+  "UseBerriesMinIv": 0.0,
+  "UseBerriesBelowCatchProbability": 0.0,
+  "UseBerriesOperator": "and",
+  "UseSnipeLocationServer": false,
+  "SnipeLocationServer": "localhost",
+  "SnipeLocationServerPort": 16969,
+  "GetSniperInfoFromPokezz": false,
+  "GetOnlyVerifiedSniperInfoFromPokezz": false,
+  "GetSniperInfoFromPokeSnipers": true,
+  "GetSniperInfoFromPokeWatchers": false,
+  "GetSniperInfoFromSkiplagged": true,
+  "MinPokeballsToSnipe": 75,
+  "MinPokeballsWhileSnipe": 0,
+  "MinDelayBetweenSnipes": 2000,
+  "SnipingScanOffset": 0.013,
+  "SnipeAtPokestops": true,
+  "SnipeIgnoreUnknownIv": false,
+  "UseTransferIvForSnipe": false,
+  "SnipePokemonNotInPokedex": false,
+  "RenamePokemon": false,
+  "RenameOnlyAboveIv": true,
+  "RenameTemplate": "{1}_{0}",
+  "MaxPokeballsPerPokemon": 6,
+  "MaxTravelDistanceInMeters": 3000,
+  "TotalAmountOfPokeballsToKeep": 120,
+  "TotalAmountOfPotionsToKeep": 80,
+  "TotalAmountOfRevivesToKeep": 60,
+  "TotalAmountOfBerriesToKeep": 50,
+  "UseGreatBallAboveCp": 750,
+  "UseUltraBallAboveCp": 1000,
+  "UseMasterBallAboveCp": 1500,
+  "UseGreatBallAboveIv": 80.0,
+  "UseUltraBallAboveIv": 90.0,
+  "UseGreatBallBelowCatchProbability": 0.4,
+  "UseUltraBallBelowCatchProbability": 0.2,
+  "UseMasterBallBelowCatchProbability": 0.1,
+  "EnableHumanizedThrows": false,
+  "EnableMissedThrows": false,
+  "ThrowMissPercentage": 25,
+  "NiceThrowChance": 40,
+  "GreatThrowChance": 60,
+  "ExcellentThrowChance": 100,
+  "CurveThrowChance": 20,
+  "ForceGreatThrowOverIv": 50.0,
+  "ForceExcellentThrowOverIv": 50.0,
+  "ForceGreatThrowOverCp": 40,
+  "ForceExcellentThrowOverCp": 1500,
+  "TransferWeakPokemon": false,
+  "TransferDuplicatePokemon": true,
+  "TransferDuplicatePokemonOnCapture": false,
+  "FavoriteMinIvPercentage": 95.0,
+  "AutoFavoritePokemon": false,
+  "UsePokemonToNotCatchFilter": false,
+  "UsePokemonSniperFilterOnly": false,
+  "ItemRecycleFilter": [
+    {
+      "Key": "itemUnknown",
+      "Value": 0
+    },
+    {
+      "Key": "itemLuckyEgg",
+      "Value": 200
+    },
+    {
+      "Key": "itemIncenseOrdinary",
+      "Value": 100
+    },
+    {
+      "Key": "itemIncenseSpicy",
+      "Value": 100
+    },
+    {
+      "Key": "itemIncenseCool",
+      "Value": 100
+    },
+    {
+      "Key": "itemIncenseFloral",
+      "Value": 100
+    },
+    {
+      "Key": "itemTroyDisk",
+      "Value": 100
+    },
+    {
+      "Key": "itemXAttack",
+      "Value": 100
+    },
+    {
+      "Key": "itemXDefense",
+      "Value": 100
+    },
+    {
+      "Key": "itemXMiracle",
+      "Value": 100
+    },
+    {
+      "Key": "itemRazzBerry",
+      "Value": 50
+    },
+    {
+      "Key": "itemBlukBerry",
+      "Value": 10
+    },
+    {
+      "Key": "itemNanabBerry",
+      "Value": 10
+    },
+    {
+      "Key": "itemWeparBerry",
+      "Value": 30
+    },
+    {
+      "Key": "itemPinapBerry",
+      "Value": 30
+    },
+    {
+      "Key": "itemSpecialCamera",
+      "Value": 100
+    },
+    {
+      "Key": "itemIncubatorBasicUnlimited",
+      "Value": 100
+    },
+    {
+      "Key": "itemIncubatorBasic",
+      "Value": 100
+    },
+    {
+      "Key": "itemPokemonStorageUpgrade",
+      "Value": 1000
+    },
+    {
+      "Key": "itemItemStorageUpgrade",
+      "Value": 100
+    }
+  ],
+  "PokemonsNotToTransfer": [
+    "dragonite",
+    "lapras",
+    "gyarados",
+    "snorlax",
+    "mewtwo",
+    "mew"
+  ],
+  "PokemonsToEvolve": [
+    "caterpie",
+    "weedle",
+    "pidgey",
+    "rattata",
+    "zubat",
+    "doduo"
+  ],
+  "PokemonsToLevelUp": null,
+  "PokemonsToIgnore": [
+    "tauros",
+    "farfetchd",
+    "mrMime",
+    "kangaskhan"
+  ],
+  "PokemonsTransferFilter": {},
+  "PokemonToSnipe": {
+    "Locations": [
+      {
+        "Latitude": 35.6328964,
+        "Longitude": 139.8803943
+      },
+      {
+        "Latitude": 40.712784,
+        "Longitude": -74.005941
+      },
+      {
+        "Latitude": 38.907192,
+        "Longitude": -77.036871
+      },
+      {
+        "Latitude": 37.77493,
+        "Longitude": -122.419416
+      },
+      {
+        "Latitude": 52.520007,
+        "Longitude": 13.404954
+      },
+      {
+        "Latitude": 51.507351,
+        "Longitude": -0.127758
+      }
+    ],
+    "Pokemon": [
+      "magikarp",
+      "eevee",
+      "charmander",
+      "dratini"
+    ]
+  },
+  "PokemonToUseMasterball": [
+    "articuno",
+    "zapdos",
+    "moltres",
+    "mew",
+    "mewtwo"
+  ]
+}
