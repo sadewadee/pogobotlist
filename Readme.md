@@ -5,10 +5,9 @@
 #4. Kemudian silahkan sobat Buka folder "Config" > kemudian buka "auth.json" dengan notepad bawaan pc kalian.
 #5. Edit dan Pilih tipe akun login kalian, dengan diakhiri tanda petik ("). Kemudian save.
 #6. Kemudian Buka "config.json" di Notepad.
-#7. Copy Pastekan script di "config.json" kemudian save.
+#7. Pilih Config.json sesuai kebutuhan lalu Copy Pastekan script di "Config.json" kemudian save.
 #8. Kemudian Buka lagi "YOBO.exe".
-#9. Jika muncul popup seperti ini tekan "Y" kemudian enter.
-#10. Tunggu sebentar sampai loginnya berhasil.
+#9. Tunggu sebentar sampai loginnya berhasil.
 
 #Cara Mengatasi Masalah dalam Menggunakan YOBO.
 #Jika anda menemukan pesan seperti ini "Did not find a Pokemon within the Location, pokemon despawned?" tunggu saja karena pokemon yang kita bidik tidak ada.
